@@ -1,0 +1,22 @@
+{
+  "name": "font-pingfang-tc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.css",
+  "scripts": {},
+  "keywords": [
+    "pingfang-sc",
+    "woff2"
+  ],
+  "author": "moneko",
+  "license": "ISC",
+  "files": [
+    "index.css",
+    "PingFangTC-Light.woff2",
+    "PingFangTC-Medium.woff2",
+    "PingFangTC-Regular.woff2",
+    "PingFangTC-Semibold.woff2",
+    "PingFangTC-Thin.woff2",
+    "PingFangTC-Ultralight.woff2"
+  ]
+}
